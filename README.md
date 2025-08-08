@@ -1,3 +1,3 @@
 # samiksha_repository
 My first git repository <br>
-Author -Samiksha Gajbhiye
+Author - Samiksha_Gajbhiye
