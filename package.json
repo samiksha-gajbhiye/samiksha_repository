@@ -1,0 +1,29 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "My first git repository <br> Author - Samiksha_Gajbhiye",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "probe": "node scripts/probe.js",
+    "test": "node scripts/probe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samiksha-gajbhiye/samiksha_repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samiksha-gajbhiye/samiksha_repository/issues"
+  },
+  "homepage": "https://github.com/samiksha-gajbhiye/samiksha_repository#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "node-cache": "^5.1.2"
+  }
+}
